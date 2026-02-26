@@ -5,7 +5,7 @@
 ![Spectral Data Prediction]()  
 <img width="958" alt="Screenshot 2025-03-13 at 4 54 14 PM" src="https://github.com/user-attachments/assets/868db99d-bc34-4812-a1ba-f0f9bb9b492b" />
 
-🔗 **Live Demo**: [Visit the Website](https://hyperspectral-mycotoxin-prediction-shiva.streamlit.app/)  
+🔗 **Live Demo**:
 
 ---
 
